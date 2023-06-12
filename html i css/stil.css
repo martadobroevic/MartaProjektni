@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:darkolivegreen;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 18px;
+	width: 1450px;
+	background-color:darkorange;
+	padding: 10px;
+}
+a:link {
+	color:mediumorchid;
+	background-color:lightcyan;
+	padding: 1px;
+	line-height: 35px;
+	border: 0px solid #000000;
+}
+.container {
+    text-align: center;
+}
+h1 {font-size: 50px}
+h2 {font-size: 40px}
+h1 {font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color:darkcyan;
+}
+h2 {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+color:darkseagreen;}
+h3 {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+color: aquamarine;
+font-size: 30px;}
+.font2 {
+  font-family: MartaDobroevic;
+	color: palevioletred;
+	font-size: 60px;
+}
+body {background-image: url("../Nova mapa/93089.jpg")}
